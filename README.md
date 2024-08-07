@@ -10,3 +10,4 @@
 - [003](notes/003.md) Deep Residual Learning for Image Recognition
 - [004](notes/004.md) PhysCap: Physically Plausible Monocular 3D Motion Capture in Real Time
 - [005](notes/005.md) Deep Learning-based Human Pose Estimation: A Survey
+- [006](notes/006.md) Attention is All You Need
