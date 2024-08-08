@@ -12,3 +12,4 @@
 - [005](notes/005.md) Deep Learning-based Human Pose Estimation: A Survey
 - [006](notes/006.md) Attention is All You Need
 - [007](notes/007.md) Motion Guided 3D Pose Estimation from Videos
+- [008](notes/008.md) Marching cubes: a high resolution 3D surface construction algorithm
